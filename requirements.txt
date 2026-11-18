@@ -1,0 +1,4 @@
+playwright==1.65.2
+pycaw==20260927
+comtypes==1.5.0
+pyinstaller==6.22.3
